@@ -18,6 +18,6 @@ $ npm dev
 
 ```bash
 $ npm build
-$ npm dev
+$ npm start
 ```
 
